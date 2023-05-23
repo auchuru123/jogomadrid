@@ -1,2 +1,2 @@
-# jogomadrid
-pingpong
+# pongtwo
+Jogo pong no JavaScript
